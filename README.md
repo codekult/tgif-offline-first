@@ -2,4 +2,4 @@
 
 ## Building Offline-First Web Apps
 
-codekult.github.io/tgif-offline-first/
+https://codekult.github.io/tgif-offline-first/
